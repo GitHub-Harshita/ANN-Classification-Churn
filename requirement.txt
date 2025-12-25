@@ -1,0 +1,10 @@
+ipykernel #for running python file in specific environment
+numpy
+pandas
+matplotlib
+seaborn
+flask
+memory_profiler
+streamlit
+scikit-learn
+tensorflow
